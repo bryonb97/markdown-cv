@@ -4,22 +4,19 @@ Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github
 
 
 #### Technical Sklls Exposure
-| *Languages* | *Frameworks & Libraries* | *Databases* | *Environments & Other* | *Functional Concepts* |
-| --- | ---| ---| --- | --- |
-| C# | ASP.NET Core | Azure SQL DB | VS Code | OOP |
-| Java | React.js | SQL | Visual Studio 2019 | API |
-| Python | Django | SQLite | Azure App Services | MVC |
-| HTML | Flask | MySQL | Git, GitHub | ORM |
-| CSS | Angular2 | MongoDB | Sublime | CLI |
-| JavaScript | Node.js |  | Notepad++ | REST API |
-|  | Express.js |  | AWS(EC2) |  |
-|  | Mongoose.js |  | Adobe Photoshop CS6 |  |
-|  | JQuery |  | Unity Game Engine  |  |
-|  | JSP |  |  |  |
-|  | AJAX |  |  |  |
-|  | Bootstrap |  |  |  |
-|  | BCrypt |  |  |  |
-|  | Entity Framework Core |  |  |  |
+<table>
+        <tr>
+            <th>Languages</th>
+            <th>Fameworks and Libraries</th>
+            <th>Databases</th>
+            <th>Environments</th>
+            <th>Functional Concepts</th>
+        </tr>
+        <tr>
+            <td>C#</td>
+            <td>ASP.NET Core</td>
+        </tr>
+</table>
 
 
 ## About Me
