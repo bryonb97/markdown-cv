@@ -15,6 +15,100 @@ Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github
         <tr>
             <td>C#</td>
             <td>ASP.NET Core</td>
+            <td>Azure SQL DB</td>
+            <td>Visual Studio 2019</td>
+            <td>OOP</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>React.js</td>
+            <td>SQL</td>
+            <td>VS Code</td>
+            <td>API</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>Django</td>
+            <td>SQLite</td>
+            <td>Azure App Services</td>
+            <td>MVC</td>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>Flask</td>
+            <td>MySQL</td>
+            <td>Git, GitHub</td>
+            <td>ORM</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>Angular2</td>
+            <td>MongoDB</td>
+            <td>Sublime</td>
+            <td>CLI</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Node.js</td>
+            <td>Notepad++</td>
+            <td></td>
+            <td>REST API</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Express.js</td>
+            <td></td>
+            <td>AWS(EC2)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Mongoose.js</td>
+            <td></td>
+            <td>Adobe Photoshop CS6</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>JQuery</td>
+            <td></td>
+            <td>Unity Game Engine</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>JSP</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>AJAX</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Bootstrap</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>BCrypt</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Entity Framework Core</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
 </table>
 
