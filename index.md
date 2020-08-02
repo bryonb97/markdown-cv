@@ -5,7 +5,7 @@ Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github
 
 #### Technical Sklls Exposure
 | *Languages* | *Frameworks & Libraries* | *Databases* | *Environments & Other* | *Functional Concepts* |
-| ----------- | ------------------------ | ----------- | ---------------------- | --------------------- |
+| --- | ---| ---| --- | --- |
 | C# | ASP.NET Core | Azure SQL DB | VS Code | OOP |
 | Java | React.js | SQL | Visual Studio 2019 | API |
 | Python | Django | SQLite | Azure App Services | MVC |
