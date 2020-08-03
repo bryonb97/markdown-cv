@@ -53,7 +53,7 @@ C#, Xcode, Unity Game Engine, and Photoshop CS6
 
 DECEMBER 2019 - JULY 2020,  LISLE, IL
 
-Created and maintained websites that allowed users to register for various conferences based off of schedules provided by the client with specific deadlines. Website design was based off of mockups and could later be changed by clients. Worked with other web developers as well as a QA team to fix any issues before handing the sites over to the clients. Managed the sites using the company's custom web tool to achieve page navigation as well as validation rules.  Sites were responsive and mobile friendly if requested by the client. Also used another web based tool to manage tickets and track issues called Jira. 
+Created and maintained websites that allowed users to register for various conferences based off of schedules provided by the client with specific deadlines. Website design was based off of mockups and could later be changed by clients. Worked with other web developers as well as a QA team to fix any issues before handing the sites over to the clients. Managed the sites using the company's custom web tool to achieve page navigation as well as validation rules.  Sites were responsive and mobile friendly if requested by the client. Gained experience using Jira to manage tickets and track issues.  
 
 
 **IT Solutions** // *Intern*
