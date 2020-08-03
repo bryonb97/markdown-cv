@@ -120,7 +120,7 @@ An aspiring Full Stack C# Developer that is very passionate about learning new t
 ## Projects
 **Relativity Capstone Project**  // *Solo Project*
 
-An application that pulls data from the Open Weather API and a CSV file of airports around the world to calculate the weather, including wind direction, in the area around the airport that is queried. The call to the weather API returns a 2 week forecast of the airport that was searched. There is also a list of airports that is paginated and made more efficient by caching the API calls.  
+An application that pulls data from the Open Weather API and a CSV file of airports around the world to calculate the weather, including wind direction, in the area around the airport that is queried. The call to the weather API returns a 2 week forecast of the airport that was searched. There is also a list of airports that is paginated, an autocomplete for the search field and the lookup is made more efficient by caching the API calls. 
 
 C#, React.js and Azure SQL DB
 
