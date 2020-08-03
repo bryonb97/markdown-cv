@@ -4,113 +4,22 @@ Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github
 
 
 #### Technical Sklls Exposure
-<table>
-        <tr>
-            <th>Languages</th>
-            <th>Fameworks and Libraries</th>
-            <th>Databases</th>
-            <th>Environments</th>
-            <th>Functional Concepts</th>
-        </tr>
-        <tr>
-            <td>C#</td>
-            <td>ASP.NET Core</td>
-            <td>Azure SQL DB</td>
-            <td>Visual Studio 2019</td>
-            <td>OOP</td>
-        </tr>
-        <tr>
-            <td>Java</td>
-            <td>React.js</td>
-            <td>SQL</td>
-            <td>VS Code</td>
-            <td>API</td>
-        </tr>
-        <tr>
-            <td>Python</td>
-            <td>Django</td>
-            <td>SQLite</td>
-            <td>Azure App Services</td>
-            <td>MVC</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>Flask</td>
-            <td>MySQL</td>
-            <td>Git, GitHub</td>
-            <td>ORM</td>
-        </tr>
-        <tr>
-            <td>CSS</td>
-            <td>Angular2</td>
-            <td>MongoDB</td>
-            <td>Sublime</td>
-            <td>CLI</td>
-        </tr>
-        <tr>
-            <td>JavaScript</td>
-            <td>Node.js</td>
-            <td>Notepad++</td>
-            <td></td>
-            <td>REST API</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Express.js</td>
-            <td></td>
-            <td>AWS(EC2)</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Mongoose.js</td>
-            <td></td>
-            <td>Adobe Photoshop CS6</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>JQuery</td>
-            <td></td>
-            <td>Unity Game Engine</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>JSP</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>AJAX</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Bootstrap</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>BCrypt</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Entity Framework Core</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-</table>
+| *Languages* | *Frameworks & Libraries* | *Databases* | *Environments & Other* | *Functional Concepts* |
+| ----------- | ------------------------ | ----------- | ---------------------- | --------------------- |
+| C# | ASP.NET Core | Azure SQL DB | VS Code | OOP |
+| Java | React.js | SQL | Visual Studio 2019 | API |
+| Python | Django | SQLite | Azure App Services | MVC |
+| HTML | Flask | MySQL | Git, GitHub | ORM |
+| CSS | Angular2 | MongoDB | Sublime | CLI |
+| JavaScript | Node.js |  | Notepad++ | REST API |
+|  | Express.js |  | AWS(EC2) |  |
+|  | Mongoose.js |  | Adobe Photoshop CS6 |  |
+|  | JQuery |  | Unity Game Engine  |  |
+|  | JSP |  |  |  |
+|  | AJAX |  |  |  |
+|  | Bootstrap |  |  |  |
+|  | BCrypt |  |  |  |
+|  | Entity Framework Core |  |  |  |
 
 
 ## About Me
@@ -120,7 +29,7 @@ An aspiring Full Stack C# Developer that is very passionate about learning new t
 ## Projects
 **Relativity Capstone Project**  // *Solo Project*
 
-An application that pulls data from the Open Weather API and a CSV file of airports around the world to calculate the weather, including wind direction, in the area around the airport that is queried. The call to the weather API returns a 2 week forecast of the airport that was searched. There is also a list of airports that is paginated and an autocomplete for the search field. 
+An application that pulls data from the Open Weather API and a CSV file of airports around the world to calculate the weather, including wind direction, in the area around the airport that is queried. The call to the weather API returns a 2 week forecast of the airport that was searched. There is also a list of airports that is paginated and an autocomplete for the search field.   
 
 C#, React.js and Azure SQL DB
 
@@ -144,16 +53,14 @@ C#, Xcode, Unity Game Engine, and Photoshop CS6
 
 DECEMBER 2019 - JULY 2020,  LISLE, IL
 
-Created and maintained websites that allowed users to register for various conferences. Website design was based off of mockups and could later be changed by clients. Worked with other web developers as well as a QA team to fix any issues before handing the sites over to the clients. 
+Created and maintained websites that allowed users to register for various conferences based off of schedules provided by the client with specific deadlines. Website design was based off of mockups and could later be changed by clients. Worked with other web developers as well as a QA team to fix any issues before handing the sites over to the clients. Managed the sites using the company's custom web tool to achieve page navigation as well as validation rules.  Sites were responsive and mobile friendly if requested by the client. Also used another web based tool to manage tickets and track issues called Jira. 
 
 
 **IT Solutions** // *Intern*
 
 JUNE 2016 - NOVEMBER 2016,  PLAINFIELD, IL
 
-Learned customer service, time management, safety regulations for the gas station, trained new team members, worked with other team members to efficiently clear the lot, kept the managers notified of any safety hazards, opened and closed the vestibule, and  inventory management.
-
-Worked with clients to resolve tickets and troubleshoot any problems they might have.  Some of the work done was remote using a live software to connect and control the client's computer to resolve the issue. Other work was done on site if need be to resolve the issue. Configured computers and laptops based on the client’s needs while following the standards that were set by IT Solutions. Was able to learn from shadowing my coworkers and taking notes on what they were doing.
+Learned customer service, time management, safety regulations for the gas station, trained new team members, worked with other team members to efficiently clear the lot, kept the managers notified of any safety hazards, opened and closed the vestibule, and  inventory management. Worked with clients to resolve tickets and troubleshoot any problems they might have.  Some of the work done was remote using a live software to connect and control the client's computer to resolve the issue. Other work was done on site if need be to resolve the issue. Configured computers and laptops based on the client’s needs while following the standards that were set by IT Solutions. Was able to learn from shadowing my coworkers and taking notes on what they were doing.
 
 ## Education
 **Coding Dojo**
@@ -171,7 +78,7 @@ AUGUST  2016 - NOVEMBER  2017, GLEN ELLYN IL
 Course work focused on the Associates Computer Science degree program.
 
 
-## Hobies
+## Hobbies
 
 **Scouting**
 
@@ -181,5 +88,4 @@ Achieved Eagle Scout Rank in 2016. Designed and built a portable Gaga Ball Pit.
 <!-- ### Footer
 
 Last updated: August 2, 2020 -->
-
 
