@@ -7,8 +7,8 @@ Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github
 | *Languages* | *Frameworks & Libraries* | *Databases* | *Environments & Other* | *Functional Concepts* |
 | ----------- | ------------------------ | ----------- | ---------------------- | --------------------- |
 | C# | ASP.NET Core | Azure SQL DB | VS Code | OOP |
-| Java | React.js | SQL | Visual Studio 2019 | API |
-| Python | Django | SQLite | Azure App Services | MVC |
+| Java | Blazor | SQL | Visual Studio 2019 | API |
+| Python | IdentityServer4 | SQLite | Azure App Services | MVC |
 | HTML | Flask | MySQL | Git, GitHub | ORM |
 | CSS | Angular2 | MongoDB | Sublime | CLI |
 | JavaScript | Node.js |  | Notepad++ | REST API |
@@ -20,6 +20,8 @@ Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github
 |  | Bootstrap |  |  |  |
 |  | BCrypt |  |  |  |
 |  | Entity Framework Core |  |  |  |
+|  | React.js |  |  |  |
+|  | EDjango |  |  |  |
 
 
 ## About Me
@@ -34,11 +36,11 @@ An application that pulls data from the Open Weather API and a CSV file of airpo
 C#, React.js and Azure SQL DB
 
 
-**TaskLog** // *Solo Project*
+**ProjectTracker** // *Solo Project*
 
-This  project was started after Coding Dojo. It is a Project Tracking App with the ability to add and check off projects. Users can give each project an estimated duration time it will take to complete and set a date that the project is expected to be finished. Each project can have tasks and subtasks. Edit functionality for the Projects, tasks, and subtasks is available as needed. Time spent versus time expected is calculated and available to compare how long you expected it would take you.
+A project that I am currently working on while I have been learning Blazor. It features a fully structured multi-layer application with API, Client, and Server projects. Using IdentityServer4 Authentication it allows the user to register and login to their account to view projects that they have, or projects assigned to them. Each project can have any number of tasks and people associated to those tasks and overall projects. 
 
-C#, ASP.NET Core, and Azure SQL DB
+C#, Blazor, Entity Framework Core, IdentityServer4
 
 
 **Scrambler** // *Lead Backend and Frontend Developer*
