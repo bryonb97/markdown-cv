@@ -1,5 +1,5 @@
 ## Bryon Bauer
-Chicago, IL || 630- 800-5387 || bryon.bauer@outlook.com || LinkedIn: https://www.linkedin.com/in/bryon-bauer/
+Bolingbrook, IL || 630- 800-5387 || bryon.bauer@outlook.com || LinkedIn: https://www.linkedin.com/in/bryon-bauer/
 Bootcamp Github: https://github.com/bryonb97/ || Personal Github: https://github.com/BryonBauer/
 
 
