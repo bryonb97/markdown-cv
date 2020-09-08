@@ -58,6 +58,12 @@ Course work focused on the Associates Computer Science degree program.
 
 
 ## Projects
+**ProjectTracker** // *Solo Project*
+
+A project that I am currently working on while I have been learning Blazor. It features a fully structured multi-layer application with API, Client, and Server projects. Using IdentityServer4 Authentication it allows the user to register and login to their account to view projects that they have, or projects assigned to them. Each project can have any number of tasks and people associated to those tasks and overall projects. 
+
+C#, Blazor, Entity Framework Core, IdentityServer4
+
 **Relativity Capstone Project**  // *Solo Project*
 
 An application that pulls data from the Open Weather API and a CSV file of airports around the world to calculate the weather, including wind direction, in the area around the airport that is queried. The call to the weather API returns a 2 week forecast of the airport that was searched. There is also a list of airports that is paginated and an autocomplete for the search field.   
@@ -69,12 +75,6 @@ C#, React.js and Azure SQL DB
 iOS App that grabs a word from a JSON file and scrambles it into tiles then renders it. The user then tries to guess the word. Designed and implemented the Frontend using Photoshop CS6 and Unity. Also designed the scrambling feature of the word and validation each time the word is changed. Alerts the user that the word is incorrect and resets itself with the same word.
 
 C#, Xcode, Unity Game Engine, and Photoshop CS6
-
-**ProjectTracker** // *Solo Project*
-
-A project that I am currently working on while I have been learning Blazor. It features a fully structured multi-layer application with API, Client, and Server projects. Using IdentityServer4 Authentication it allows the user to register and login to their account to view projects that they have, or projects assigned to them. Each project can have any number of tasks and people associated to those tasks and overall projects. 
-
-C#, Blazor, Entity Framework Core, IdentityServer4
 
 
 ## Hobbies
