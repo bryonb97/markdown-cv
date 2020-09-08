@@ -39,7 +39,7 @@ Created and maintained websites that allowed users to register for various confe
 
 JUNE 2016 - NOVEMBER 2016,  PLAINFIELD, IL
 
-Learned customer service, time management, safety regulations for the gas station, trained new team members, worked with other team members to efficiently clear the lot, kept the managers notified of any safety hazards, opened and closed the vestibule, and  inventory management. Worked with clients to resolve tickets and troubleshoot any problems they might have.  Some of the work done was remote using a live software to connect and control the client's computer to resolve the issue. Other work was done on site if need be to resolve the issue. Configured computers and laptops based on the client’s needs while following the standards that were set by IT Solutions. Was able to learn from shadowing my coworkers and taking notes on what they were doing.
+Worked with clients to resolve tickets and troubleshoot any problems they might have.  Some of the work done was remote using a live software to connect and control the client's computer to resolve the issue. Other work was done on site if need be to resolve the issue. Configured computers and laptops based on the client’s needs while following the standards that were set by IT Solutions. Was able to learn from shadowing my coworkers and taking notes on what they were doing.
 
 
 ## Education
