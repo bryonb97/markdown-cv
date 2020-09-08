@@ -33,13 +33,20 @@ An aspiring Full Stack C# Developer that is very passionate about learning new t
 
 DECEMBER 2019 - JULY 2020,  LISLE, IL
 
-Created and maintained websites that allowed users to register for various conferences based off of schedules provided by the client with specific deadlines. Website design was based off of mockups and could later be changed by clients. Worked with other web developers as well as a QA team to fix any issues before handing the sites over to the clients. Managed the sites using the company's custom web tool to achieve page navigation as well as validation rules.  Sites were responsive and mobile friendly if requested by the client. Gained experience using Jira to manage tickets and track issues.  
+* Introduced coworkers to Visual Studio Code with an SFTP addon that saved time and made the process of creating and viewing sites easier which increased productivity and overall effectiveness.
+*	Created and maintained websites that allowed users to register for various conferences based off schedules provided by the client with specific deadlines. Website design was based off mockups and could later be changed by clients. 
+*	Worked with other web developers as well as a QA team to fix any issues before handing the sites over to the clients. 
+*	Managed the sites using the company's custom web tool to achieve page navigation as well as validation rules.  Sites were responsive and mobile friendly if requested by the client.
+*	 Gained experience using Jira to manage tickets and track issues.
+
 
 **IT Solutions** // *Intern*
 
 JUNE 2016 - NOVEMBER 2016,  PLAINFIELD, IL
 
-Worked with clients to resolve tickets and troubleshoot any problems they might have.  Some of the work done was remote using a live software to connect and control the client's computer to resolve the issue. Other work was done on site if need be to resolve the issue. Configured computers and laptops based on the client’s needs while following the standards that were set by IT Solutions. Was able to learn from shadowing my coworkers and taking notes on what they were doing.
+*	Worked with clients to resolve tickets and troubleshoot any problems they might have.  Some of the work done was remote using a live software to connect and control the client's computer to resolve the issue 
+*	Configured computers and laptops based on the client’s needs while following the standards that were set by IT Solutions. 
+*	Occasionally went on site if the issue could not be solved remotely. When on site showed professionalism and met company expectations while working with clients to meet their needs.
 
 
 ## Education
